@@ -22,9 +22,9 @@ NEWSPIDER_MODULE = 'Lagou.spiders'
 ROBOTSTXT_OBEY = False
 
 # 拉钩登录的用户名
-USER = '15600598536'
+USER = 'XXXXXXXXX'
 # 拉钩登录的密码
-PWD =  'Ljj156536+,..'
+PWD =  'XXXXXXXXX'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
